@@ -15,12 +15,14 @@ body {
     margin-right: 50%;
 
   }
-  h1{
+  h1,h2{
     color: navy;
     margin-left: 20px;
     text-align:center;
   }
- 
+ h3{
+   text-align:center;
+ }
   style {
     text-align:center;
   }
