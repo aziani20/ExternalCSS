@@ -2,6 +2,14 @@
 body {
     background-color: lightblue;
   }
+  .intro{
+    background-color: chartreuse;
+    text-align: center;
+  }
+  *{
+    text-align: center;
+    color: orange;
+  }
   
   th, td, input,ul{
     border: 1px solid black;
@@ -15,10 +23,11 @@ body {
     margin-right: 50%;
 
   }
-  h1,h2{
-    color: navy;
+  #kata{
+    color:palevioletred;
     margin-left: 20px;
     text-align:center;
+    font-size: xx-large;
   }
  h3{
    text-align:center;
@@ -26,7 +35,6 @@ body {
   style {
     text-align:center;
   }
-
 
   img{
     
